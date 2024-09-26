@@ -4,6 +4,7 @@
 using namespace std;
 
 int main() {
+    cout << "Hello, World!\n";
     string userName;
     cout << "Please enter your first name: ";
     cin >> userName;
